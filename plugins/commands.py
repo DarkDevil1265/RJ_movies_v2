@@ -59,7 +59,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📹 Video Tutorial', url='https://www.youtube.com/watch?v=qjMRZlzhCVo')
+        InlineKeyboardButton('📹 Video Tutorial', url='https://youtu.be/t2P-JtLwkuM')
         ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('About 🔰', callback_data='about')

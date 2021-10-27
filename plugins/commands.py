@@ -10,7 +10,7 @@ I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @FayasNoushad"""
+Made by @malluinstaufollowers"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -26,20 +26,19 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /settings - For bot settings
 /reset - For reset bot settings
 
-Made by @FayasNoushad"""
+Made by @malluinstaufollowers"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [Movie Info Bot](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [RJ](https://t.me/malluinstaufollowers)
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+📢 **Channel :** [RJ](https://t.me/malluinstafollowers)
 
-👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
+👥 **Group :** [Mallu Insta Followers](https://t.me/malluinstafollowers)
 
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/Movie-Info-Bot-V2)
-
+🌐 **Source :** [👉 Click here](https://github.com/DarkDevil1265/RJ_movies_v2)
 📝 **Language :** [Python3](https://python.org)
 
 🧰 **Framework :** [Pyrogram](https://pyrogram.org)
@@ -47,7 +46,7 @@ ABOUT_TEXT = """--**About Me 😎**--
 📡 **Server :** [Heroku](https://heroku.com)"""
 
 SETTINGS_TEXT = "**Settings**"
-
+ 
 RESET_TEXT = "**Are you sure for reset.**"
 
 START_BUTTONS = InlineKeyboardMarkup(
@@ -99,8 +98,8 @@ RESET_BUTTONS = InlineKeyboardMarkup(
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
-        text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        text='📢 Join Channel 📢',
+        url='https://t.me/malluinstafollowers'
     )
 ]
 

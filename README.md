@@ -17,6 +17,10 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkDevil1265/RJ_movies_v2)
+
+
 </details>
 
 ---

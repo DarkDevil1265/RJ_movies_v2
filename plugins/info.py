@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+# Author: Mallu (https://github.com/DarkDevil1265/RJ_movies_v2) (@Mallu_talk_bot)
 
 import json
 import requests

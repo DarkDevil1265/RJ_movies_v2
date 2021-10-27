@@ -10,7 +10,7 @@ License -> https://github.com/FayasNoushad/Movie-Info-Bot-V2/blob/main/LICENSE
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/Movie-Info-Bot-V2.git
+git clone https://github.com/DarkDevil1265/RJ_movies_v2.git
 cd Movie-Info-Bot-V2
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
